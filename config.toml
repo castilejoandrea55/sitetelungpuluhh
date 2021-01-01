@@ -1,0 +1,4 @@
+baseURL = "https://tarotcardsviews.vercel.app"
+languageCode = "en-us"
+title = "Tarot Cards List"
+theme = "hugo-theme-minos"
